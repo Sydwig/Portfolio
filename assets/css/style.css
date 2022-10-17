@@ -34,6 +34,7 @@ a {
   height: fit-content;
   border: 5px solid rgb(68, 68, 68);
   margin: 25px;
+  padding: 10px;
   border-radius: 10px;
 }
 
