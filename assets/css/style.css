@@ -3,3 +3,9 @@ body {
   color: white;
   text-align: center;
 }
+
+img {
+  margin: 50px;
+  width: 150px;
+  height: 200px;
+}
