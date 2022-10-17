@@ -3,9 +3,26 @@ body {
   color: white;
   text-align: center;
 }
-
-img {
-  margin: 50px;
-  width: 150px;
-  height: 200px;
+nav {
+margin: 10px;
 }
+
+header {
+  border: 5px solid rgb(68, 68, 68);
+  margin: 25px;
+  border-radius: 10px;
+  background-color: black;
+}
+
+.container {
+  height: fit-content;
+  border: 5px solid rgb(68, 68, 68);
+  margin: 25px;
+  border-radius: 10px;
+  background-color: black;
+}
+
+
+
+
+
