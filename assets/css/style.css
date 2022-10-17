@@ -3,15 +3,27 @@ body {
   color: white;
   text-align: center;
 }
-nav {
-margin: 10px;
-}
 
 header {
   border: 5px solid rgb(68, 68, 68);
   margin: 25px;
   border-radius: 10px;
-  background-color: black;
+}
+
+nav {
+margin: 10px;
+}
+
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+}
+
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
 }
 
 .container {
