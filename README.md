@@ -3,7 +3,7 @@
 # ## Table of Contents
 * [Description](#description)
 * [Overview](#overview)
-* [Links](#links)
+* [Link](#link)
 * [Technology](#technology)
 
 ## Description
@@ -13,8 +13,8 @@ The following is a portfolio where I can show potential employers my experience 
 ![image](https://user-images.githubusercontent.com/110688090/196284315-f54f2929-b973-4cdc-b2a4-630e892d8c4f.png)
 
 
-## Links
-
+## Link
+https://sydwig.github.io/Portfolio/
 
 ## Technology
 HTML, CSS
